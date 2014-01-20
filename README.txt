@@ -32,4 +32,14 @@ https://sites.google.com/site/dai7sec/
 
 これも足りないものは100円ショップで揃います．
 
+関連リポジトリ
+---------------
+
+https://github.com/binzume/mikumikudroid oculus branch.
+
+MMDを動かす．
+
+https://github.com/binzume/glvideoplayer-android
+
+動画を再生する．
 
