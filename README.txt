@@ -43,3 +43,8 @@ https://github.com/binzume/glvideoplayer-android
 
 動画を再生する．
 
+ライセンス
+-----------
+
+この説明も含め，MITライセンスとします(他のライセンスで提供して欲しい場合ご相談ください)
+
