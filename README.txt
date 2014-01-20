@@ -1,7 +1,7 @@
 これは何？
 ------------
 
-Nexus7をOculus Riftっぽくするアタッチメントです．
+Nexus7(2013)をOculus Riftっぽくするアタッチメントです．
 
 詳しくは，C85　ななかINSIDE PRESS vol.4を買ってください．
 
